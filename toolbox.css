@@ -35,6 +35,7 @@ background-color: #ffff16;
 
 
 .mod-toolbox #tb-bottombar-hidden {
+    visibility:hidden;
     bottom: 0px;
     z-index: 6000;
     position: fixed;
